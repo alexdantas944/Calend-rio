@@ -3,21 +3,21 @@
   "name": "TS Logística - Calendário Escala 5x1",
   "short_name": "Escala 5x1",
   "description": "Calendário interativo para escala de trabalho 5x1 da TS Logística",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#1e3a8a",
   "theme_color": "#1e3a8a",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiMxZTNhOGEiLz4KPHN2ZyB4PSI0OCIgeT0iNDgiIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmZmZmIj4KICA8cGF0aCBkPSJNMTkgM2gtMVYxaDJWM3ptLTMgMGgtMlYxaDJWM3ptLTMgMGgtMlYxaDJWM3ptLTMgMEg4VjFoMlYzem0tMyAwSDZWMWgyVjN6TTQgM0gzQzIuNDUgMyAyIDMuNDUgMiA0djE2YzAgLjU1LjQ1IDEgMSAxaDE2Yy41NSAwIDEtLjQ1IDEtMVY0YzAtLjU1LS40NS0xLTEtMUg0em0xNSAydjE0SDN2LTJoMTZWNXoiLz4KICA8Y2lyY2xlIGN4PSI3IiBjeT0iMTEiIHI9IjEuNSIgZmlsbD0iIzE2YTM0YSIvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTEiIHI9IjEuNSIgZmlsbD0iIzE2YTM0YSIvPgogIDxjaXJjbGUgY3g9IjE3IiBjeT0iMTEiIHI9IjEuNSIgZmlsbD0iIzE2YTM0YSIvPgo8L3N2Zz4KPC9zdmc+",
+      "src": "favico.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png"
     },
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9IiMxZTNhOGEiLz4KPHN2ZyB4PSIxMjgiIHk9IjEyOCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+CiAgPHBhdGggZD0iTTE5IDNoLTFWMWgyVjN6bS0zIDBoLTJWMWgyVjN6bS0zIDBoLTJWMWgyVjN6bS0zIDBIOFYxaDJWM3ptLTMgMEg2VjFoMlYzek00IDNIM0MyLjQ1IDMgMiAzLjQ1IDIgNHYxNmMwIC41NS40NSAxIDEgMWgxNmMuNTUgMCAxLS40NSAxLTFWNGMwLS41NS0uNDUtMS0xLTFINHptMTUgMnYxNEgzdi0yaDFWNXoiLz4KICA8Y2lyY2xlIGN4PSI3IiBjeT0iMTEiIHI9IjIiIGZpbGw9IiMxNmEzNGEiLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjExIiByPSIyIiBmaWxsPSIjMTZhMzRhIi8+CiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxMSIgcj0iMiIgZmlsbD0iIzE2YTM0YSIvPgo8L3N2Zz4KPC9zdmc+",
+      "src": "logo.png",
       "sizes": "512x512",
-      "type": "image/svg+xml"
+      "type": "image/png"
     }
   ],
   "categories": ["productivity", "business"]
